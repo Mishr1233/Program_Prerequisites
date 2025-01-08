@@ -13,6 +13,6 @@ public class PerimeterOfRectangle {
 
         double c = 2 * (l + b);
 
-        System.out.println("Rectanglr of perimeter is : " + c);
+        System.out.println("Rectangle of perimeter is : " + c);
     }
 }
